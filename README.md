@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Asim Swarup</h1>
+<h1 align="center">Hello 👋, I'm Asim Swarup</h1>
 <h3 align="center">A Versatile Cloud Computing Enthusiast with a Passion for AI and Web Development</h3>
 
 <p align="left"> <a href="https://twitter.com/asim_swarup" target="blank"><img src="https://img.shields.io/twitter/follow/asim_swarup?logo=twitter&style=for-the-badge" alt="asim_swarup" /></a> </p>
