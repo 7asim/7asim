@@ -11,8 +11,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1YEqIKq9EFozkk-o96NgpE28VEU5CkFyF/view?usp=sharing](https://drive.google.com/file/d/1YEqIKq9EFozkk-o96NgpE28VEU5CkFyF/view?usp=sharing)
 
-- ⚡ Fun fact **I think I am funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/asim_swarup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asim_swarup" height="30" width="40" /></a>
