@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **asimswarup07@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-vcGdfHqeHjOBe7fkic_6cYkGtrt76dN/view?usp=drivesdk](https://drive.google.com/file/d/1-vcGdfHqeHjOBe7fkic_6cYkGtrt76dN/view?usp=drivesdk)
+- 📄 Know about my experiences [📄](https://drive.google.com/file/d/16LjW1gnklBqN3BNSESA7-6xRe8HSWhzw/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
