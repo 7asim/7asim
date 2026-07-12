@@ -1,25 +1,70 @@
-<h1 align="center">Hello 👋, I'm Asim Swarup</h1>
-<h3 align="center">A Versatile Cloud Computing Enthusiast with a Passion for AI and Web Development</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Asim+Swarup+👋;M.Tech+CSE+(AI+%26+ML);Cloud+%26+AI+Enthusiast" alt="Typing SVG" />
 
-<p align="left"> <a href="https://twitter.com/asim_swarup" target="blank"><img src="https://img.shields.io/twitter/follow/asim_swarup?logo=twitter&style=for-the-badge" alt="asim_swarup" /></a> </p>
+  <p align="center">
+    <a href="https://twitter.com/asim_swarup">
+      <img src="https://img.shields.io/twitter/follow/asim_swarup?logo=twitter&style=flat-square&color=00F0FF&labelColor=0D1117" alt="Twitter Follow" />
+    </a>
+  </p>
+</div>
 
-- 🔭 I’m currently working on [Image Processing](https://github.com/7asim/Image-Processing.git)
+---
 
-- 🌱 I’m currently learning **Deep Learning, Image Processing**
+### ⚡ About Me
+- 🔭 I’m currently working on **[Image Processing](https://github.com/7asim/Image-Processing.git)**
+- 🌱 I’m deepening my expertise in **Deep Learning & Advanced Image Processing**
+- 🎓 **M.Tech in CSE (AI & ML)** based in Cuttack, Odisha
+- 📫 Reach me directly at: **[asimswarup07@gmail.com](mailto:asimswarup07@gmail.com)**
+- 📄 Check out my experiences in my **[Website](https://7asim.github.io/My-Portfolio/)**
 
-- 📫 How to reach me **asimswarup07@gmail.com**
+---
 
-- 📄 Know about my experiences [Asim Swarup](https://drive.google.com/file/d/16LjW1gnklBqN3BNSESA7-6xRe8HSWhzw/view?usp=sharing)
+### 🛠️ Languages & Tools
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/asim_swarup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asim_swarup" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/asim swarup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asim swarup" height="30" width="40" /></a>
-<a href="https://kaggle.com/asimswarup0576" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="asimswarup0576" height="30" width="40" /></a>
-<a href="https://instagram.com/a_s_i_m__078" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_s_i_m__078" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=39FF14" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=FF007F" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FFEA00" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=00F0FF" alt="Scikit Learn" />
+  <img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=39FF14" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=B026FF" alt="Pandas" />
+  <br>
+  <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=FFEA00" alt="AWS" />
+  <img src="https://img.shields.io/badge/GCP-0D1117?style=for-the-badge&logo=google-cloud&logoColor=00F0FF" alt="GCP" />
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=FF007F" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Oracle-0D1117?style=for-the-badge&logo=oracle&logoColor=FF007F" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Apache_Hive-0D1117?style=for-the-badge&logo=apache-hive&logoColor=FFEA00" alt="Hive" />
+  <br>
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=39FF14" alt="Linux" />
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=FF007F" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00F0FF" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00F0FF" alt="Arduino" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=7asim&show_icons=true&locale=en&layout=compact" alt="7asim" /></p>
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=7asim&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7asim&show_icons=true&locale=en&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/asim swarup" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn" />
+  </a>
+  <a href="https://kaggle.com/asimswarup0576" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=00F0FF" alt="Kaggle" />
+  </a>
+  <a href="https://twitter.com/asim_swarup" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=00F0FF" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/a_s_i_m__078" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF007F" alt="Instagram" />
+  </a>
+</p>
